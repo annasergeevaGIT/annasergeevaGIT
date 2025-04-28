@@ -2,9 +2,9 @@ Hi 👋 My name is Anna
 =====================
 
 I'm a FH Joanneum trained Software Developer interested in Spring & Cloud Computing 
--🔭 I’m currently working on a backend solution for an ordering service based on a microservices architecture. 
--🌱 I recently built a daily planner that saves your planning history — check it out here! 
--👯 I’m looking to collaborate on open-source projects — feel free to send me your ideas at sirgeeva1@gmail.com.
+- 🔭 I’m currently working on a backend solution for an ordering service based on a microservices architecture. 
+- 🌱 I recently built a daily planner that saves your planning history — check it out here! 
+- 👯 I’m looking to collaborate on open-source projects — feel free to send me your ideas at sirgeeva1@gmail.com.
 
 ### Skills
 

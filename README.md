@@ -2,7 +2,7 @@
 
 My name is Anna, I'm a FH Joanneum trained Software Developer interested in Spring & Cloud Computing
 
-- 🔭 I’m currently working on a backend solution for a [ordering service](https://taco-deployment-latest.onrender.com) based on a microservices architecture.
+- 🔭 I’m currently working on a backend solution for an [ordering service](https://taco-deployment-latest.onrender.com) based on a microservices architecture.
 - 🌱 I recently built a daily planner that saves your planning history — check it out [here](https://todo-app-next-ten-virid.vercel.app/)!
 - 👯 I’m looking to collaborate on open-source projects — feel free to send me your ideas at sirgeeva1@gmail.com.
  

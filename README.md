@@ -2,8 +2,8 @@ Hi 👋 My name is Anna
 =====================
 
 I'm a FH Joanneum trained Software Developer interested in Spring & Cloud Computing 
-- 🔭 I’m currently working on a backend solution for an ordering service based on a microservices architecture. 
-- 🌱 I recently built a daily planner that saves your planning history — check it out here! 
+- 🔭 I’m currently working on a [backend solution](https://github.com/annasergeevaGIT/taco) for an ordering service based on a microservices architecture. 
+- 🌱 I recently built a daily planner that saves your planning history — check it out [here](https://todo-app-next-ten-virid.vercel.app)! 
 - 👯 I’m looking to collaborate on open-source projects — feel free to send me your ideas at sirgeeva1@gmail.com.
 
 ### Skills

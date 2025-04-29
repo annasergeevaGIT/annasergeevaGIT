@@ -1,4 +1,4 @@
-Hi 👋 My name is Anna
+Hi 👋 my name is Anna
 =====================
 
 I'm a FH Joanneum trained Software Developer interested in Spring & Cloud Computing 

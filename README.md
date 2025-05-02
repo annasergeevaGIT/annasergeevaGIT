@@ -1,5 +1,5 @@
 Hi 👋 my name is Anna
-=====================
+
 
 I'm a FH Joanneum trained Software Developer interested in Spring & Cloud Computing 
 - 🔭 I’m currently working on a [backend solution](https://github.com/annasergeevaGIT/taco) for an ordering service. 

@@ -9,7 +9,7 @@ I'm a FH Joanneum trained Software Developer interested in Spring Boot & Cloud C
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,spring,unity,react,postgres,firebase,redis,kafka,rabbitmq,docker,k8s,aws,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,firebase,redis,kafka,rabbitmq,docker,k8s,aws,linux,python,unity,nextjs,react&theme=light" />
   </a>
 </p>
 

@@ -6,13 +6,6 @@ I'm a FH Joanneum trained Software Developer interested in Spring Boot & Cloud C
 - 🌱 I created a Spring Security [note application](https://github.com/annasergeevaGIT/secure-notes)!
 - 🌱 I built a NextJS daily planner — check it out [here](https://todo-app-next-ten-virid.vercel.app)!
 
-### Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,firebase,redis,kafka,rabbitmq,docker,k8s,aws,linux,python,unity,nextjs,react&theme=light" />
-  </a>
-</p>
-
 ### Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 

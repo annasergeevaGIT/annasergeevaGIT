@@ -1,8 +1,7 @@
 Hi 👋 my name is Anna, I'm a FH Joanneum trained Software Developer interested in Spring Boot & Cloud Computing 
-- 🔭 I’m currently working on a backend solution for a [cloud-platform](https://github.com/annasergeevaGIT/takeaway-cloud-platform).
+- 🔭 I’m currently working on an e-learning platform reactive microservices [cloud-platform](https://github.com/annasergeevaGIT/course-aggregate-service).
 - 🌱 I recently converted monolitic app to microservices — check it out [here](https://github.com/annasergeevaGIT/monolitic-to-microservices/tree/master)
 - 🌱 I created a Spring Security [note application](https://github.com/annasergeevaGIT/secure-notes) backend!
-- 🌱 I built a NextJS daily planner — check it out [here](https://todo-app-next-ten-virid.vercel.app)!
 
 ### Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 

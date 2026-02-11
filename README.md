@@ -1,6 +1,6 @@
 Hi 👋 my name is Anna, I'm a FH Joanneum trained Software Developer interested in Spring Boot & Cloud Computing 
-- 🔭 I’m currently working on an e-learning platform reactive microservices [cloud-platform](https://github.com/annasergeevaGIT/course-aggregate-service).
-- 🌱 I recently converted monolitic app to microservices — check it out [here](https://github.com/annasergeevaGIT/monolitic-to-microservices/tree/master)
+- 🔭 I’m just finised working on an e-learning platform reactive microservices [cloud-platform](https://github.com/annasergeevaGIT/E-Learning-Platform).
+- 🌱 I recently converted monolitic app to microservices — check it out [here](https://github.com/annasergeevaGIT/monolitic-to-microservices/tree/master).
 - 🌱 I created a Spring Security [note application](https://github.com/annasergeevaGIT/secure-notes) backend!
 
 ### Tech Stack:
